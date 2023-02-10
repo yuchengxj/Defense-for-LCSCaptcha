@@ -1,0 +1,2 @@
+/root/autodl-tmp/ijcnn-code/test_set/geetest/VOC/JPEGImages_char_noised/1001.png 128,0,197,63,0 259,96,322,163,0 104,141,163,208,0 191,162,257,229,0
+/root/autodl-tmp/ijcnn-code/test_set/geetest/VOC/JPEGImages_char_noised/1002.png 114,30,181,99,0 202,171,270,246,0
