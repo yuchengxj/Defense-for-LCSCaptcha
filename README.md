@@ -3,6 +3,6 @@ This is a code release of paper *Fighting Attacks on Large Character Set CAPTCHA
 
 Our code is composed of two parts.
 
-   [Adversarial_CAPTCHAs_Generation](./Adversarial_CAPTCHAs_Generation) Part can generate adversarial CAPTCHAs.
+   [Adversarial_CAPTCHAs_Generation](../Adversarial_CAPTCHAs_Generation) Part can generate adversarial CAPTCHAs.
 
 
