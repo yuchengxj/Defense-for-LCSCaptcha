@@ -17,3 +17,5 @@ This is a code release of paper *Fighting Attacks on Large Character Set CAPTCHA
    * `Model_Library_Building` contains the architecture and training parameters for all character detection and recognition models.
 
    * `Dataset_Generation` contains scripts to generate the synthetic dataset.
+
+For security and rights considerations, we do not open source the real CAPTCHA dataset and trained attack models. If you need them for research purposes, please contact yfu2668@gmail.com.
