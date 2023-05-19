@@ -1,5 +1,5 @@
 # Defense-for-LCSCaptcha
-This is a code release of paper *Fighting Attacks on Large Character Set CAPTCHAs Using Transferable Adversarial Examples* (IJCNN, 2023).
+This is a code release of IJCNN 2023 oral long paper *Fighting Attacks on Large Character Set CAPTCHAs Using Transferable Adversarial Examples*.
 
 ### Our code is composed of two parts.
 1. `Adversarial CAPTCHAs Generation Part` can generate adversarial CAPTCHAs.
